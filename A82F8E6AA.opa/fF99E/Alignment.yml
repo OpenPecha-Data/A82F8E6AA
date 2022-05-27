@@ -1,0 +1,28 @@
+segment_sources:
+  I1832116D:
+    type: origin_type
+    relation: translation
+    language: sa
+  I1A2841DA:
+    type: origin_type
+    relation: translation
+    language: bo
+  I0CF9D65A:
+    type: origin_type
+    relation: translation
+    language: zh
+  I7349423C:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  ad1f9a9209a94a7c97cfddf036f65de8:
+    I1832116D: 8771de5d0b0141ea882ff85e89d049e3
+    I1A2841DA: b528f8b37cfc4ecd899f1f56048d7478
+    I0CF9D65A: eda3b22439f147139be99e67c61ff865
+    I7349423C: df6e5fd2c142441e931a193ac8c54248
+  99d44c46ca784ade98b5830798002ff7:
+    I1832116D: 9fdef35e13fb434f957b77c66d228d77
+    I1A2841DA: 074394844a3a41c8a86a9d15130338a9
+    I0CF9D65A: f42e0c76bd42468dac30c731ea89bdd1
+    I7349423C: 51c9c18ad4404e4ea97c8420a7a39948

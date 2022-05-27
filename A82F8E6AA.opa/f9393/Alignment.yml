@@ -1,0 +1,23 @@
+segment_sources:
+  I1832116D:
+    type: origin_type
+    relation: translation
+    language: sa
+  I1A2841DA:
+    type: origin_type
+    relation: translation
+    language: bo
+  I0CF9D65A:
+    type: origin_type
+    relation: translation
+    language: zh
+  I7349423C:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  4bba4068d36e415fa28f421eac303f1b:
+    I1832116D: fb704426c6014b1384e28631d820d098
+    I1A2841DA: 6ca2772b67d0429190579a9e53c3c6b4
+    I0CF9D65A: None
+    I7349423C: 5345f55241fe4645be4c1b19ce821e3f
